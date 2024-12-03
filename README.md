@@ -44,4 +44,4 @@ O projeto visa:
 - Propor ações que possam melhorar a retenção de clientes.
 
 ## Autor
-Este projeto foi desenvolvido como parte de um estudo sobre análise de dados utilizando Python. 
+Pedro Henrique de Lima
